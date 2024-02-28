@@ -1,7 +1,2 @@
-def board() : 
-    play_board = [[" ", " ", " "],
-                  [" ", " ", " "],
-                  [" ", " ", " "]]
-              
-    print(play_board)   
-
+print("Hello World")
+print("Welcome to Git!")
